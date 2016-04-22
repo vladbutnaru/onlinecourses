@@ -1,0 +1,24 @@
+Database name: learning
+User: root
+Password:
+
+Table: Courses
+CourseID;
+CourseName;
+CourseDescription;
+CourseVideo;
+CourseIcon;
+CourseTags;
+CourseDuration;
+CourseDate;
+CourseInstructor;
+CourseStudentsFinished;
+CourseStudentsActive;
+CourseCategory;
+
+Table: CourseChapters
+ChapterID;
+CourseID;
+ChapterIcon;
+ChapterTitle;
+ChapterDescription;
